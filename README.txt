@@ -1,7 +1,5 @@
-This project was done with the collaborative effort of 3 CSC171 students:
-Names: Bahawar Dhillon( Net ID: bdhillon)
-		Darman Khan  ( Net ID:dkhan2 )
-		Emmanuel Debessa(Net ID: edebessa )
+CSC171
+Collaborators: Bahawar Dhillon(Net ID: bdhillon), Darman Khan  (Net ID:dkhan2), Emmanuel Debessa(Net ID: edebessa)
 		
 The program builds a TTY golf game in which the user has the option to play a course from two choices. The user has to play 18 holes in
 each course to complete one round and at the end of a round the user can choose to play another round or quit the game. 
