@@ -1,4 +1,4 @@
-CSC171
+This program creates a TTY Golf game and was a project in the CSC171 course at the University of Rochester.
 Collaborators: Bahawar Dhillon(Net ID: bdhillon), Darman Khan  (Net ID:dkhan2), Emmanuel Debessa(Net ID: edebessa)
 		
 The program builds a TTY golf game in which the user has the option to play a course from two choices. The user has to play 18 holes in
